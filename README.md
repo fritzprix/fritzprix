@@ -25,6 +25,9 @@
 ![](https://img.shields.io/badge/-Unity-black?logo=unity)&nbsp;
 ![](https://img.shields.io/badge/-Git-lightgrey?logo=git)&nbsp;
 
+[![fritzprix's GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzprix&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [linkedin]: https://www.linkedin.com/in/david-lee-7630b6146/
 [gmail]: 72ave2@gmail.com
 
