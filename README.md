@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/-Javascript-5F5F5F?logo=Javascript)&nbsp;
 ![](https://img.shields.io/badge/-Rust-5F5F5F?logo=rust)&nbsp;
 ![](https://img.shields.io/badge/-C&sharp;-5F5F5F?logo=csharp)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzprix&hide=C++)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzprix&hide=c%2B%2B,perl,tex,shell&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills
