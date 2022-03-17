@@ -1,6 +1,5 @@
 
-### Hi, I'm David Lee👋
-
+### Hi, I'm David👋
 ---
 ![](https://komarev.com/ghpvc/?username=fritzprix)&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="./linkedin.svg"/>][linkedin]&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="./gmail.svg"/>][gmail]
 
