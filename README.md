@@ -32,7 +32,7 @@
 [![fritzprix's GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzprix&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/dawid-lee/
-[gmail]: mailto://72ave2@gmail.com
+[gmail]: mailto:72ave2@gmail.com
 [gh-pages]: https://fritzprix.github.io
 
 <!--
