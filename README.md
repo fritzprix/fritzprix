@@ -1,6 +1,14 @@
 
 ### Hi, I'm David👋
 
+- I'm interested in...
+  - Squeezing the hardware
+    - Embedded Software Development
+    - System Programming
+  - Autonomous Agent
+    - Deep Learning
+    - Automated Trading
+
 ---
 ![](https://komarev.com/ghpvc/?username=fritzprix)&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="https://linkedin.com/favicon.ico"/>][linkedin]&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="https://mail.google.com/favicon.ico"/>][gmail]&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="https://github.com/favicon.ico"/>][gh-pages]
 
