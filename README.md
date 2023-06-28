@@ -2,7 +2,7 @@
 ### Hi, I'm David👋
 
 ---
-![](https://komarev.com/ghpvc/?username=fritzprix)&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="https://linkedin.com/favicon.ico"/>][linkedin]&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="https://mail.google.com/favicon.ico"/>][gmail]&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="https://github.com/favicon.ico"/>][gh-pages]
+![](https://komarev.com/ghpvc/?username=fritzprix)&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="https://linkedin.com/favicon.ico"/>][gmail]&nbsp;&nbsp;[<img alt="doowoong | Linkedin" width="22px" src="https://github.com/favicon.ico"/>][gh-pages]
 
 ### Languages
 
