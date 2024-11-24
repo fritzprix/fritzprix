@@ -127,8 +127,20 @@ I'm a passionate software engineer who thrives on diving deep into the fascinati
 
 ---
 
+
+```python
+def life_motto():
+    return """
+    Dive deep into the metal,
+    Rise high with AI,
+    Code for fun, learn forever!
+    """
+```
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+_"The best way to predict the future is to implement it"_
+
 </div>
 
 <!--
