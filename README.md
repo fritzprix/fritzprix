@@ -100,7 +100,7 @@ I'm a passionate software engineer who thrives on diving deep into the fascinati
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fritzprix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzprix&layout=compact&langs_count=6&theme=tokyonight&hide=c%2B%2B,perl,tex,shell,jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzprix&layout=compact&langs_count=6&theme=tokyonight&hide=c%2B%2B,perl,tex,shell,jupyter%20notebook,html"/>
 </div>
 
 ## 🏆 GitHub Achievements
@@ -126,7 +126,6 @@ I'm a passionate software engineer who thrives on diving deep into the fascinati
 - 🌐 Portfolio: [fritzprix.github.io](https://fritzprix.github.io)
 
 ---
-
 
 ```python
 def life_motto():
