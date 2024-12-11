@@ -107,8 +107,7 @@ I'm a passionate software engineer who thrives on diving deep into the fascinati
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fritzprix&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 ## 🔭 Current Focus
