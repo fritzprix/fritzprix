@@ -1,4 +1,4 @@
-# Hi there, I'm David (Doowoong) Lee | 이두웅 👋
+# Hi there, I'm Doowoong(David) Lee | 이두웅 👋
 
 [![Visits](https://komarev.com/ghpvc/?username=fritzprix)](https://github.com/fritzprix)
 [![Gmail](https://img.shields.io/badge/Gmail-72ave2%40gmail.com-red?style=flat&logo=gmail)](mailto:72ave2@gmail.com)
