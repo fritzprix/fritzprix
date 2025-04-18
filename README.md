@@ -2,11 +2,11 @@
 
 [![Visits](https://komarev.com/ghpvc/?username=fritzprix)](https://github.com/fritzprix)
 [![Gmail](https://img.shields.io/badge/Gmail-72ave2%40gmail.com-red?style=flat&logo=gmail)](mailto:72ave2@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=github)](https://fritzprix.github.io)
+<!-- [![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=github)](https://fritzprix.github.io) -->
 
 ## About Me
 
-Software engineer applying experience in C/C++, Java, and Python across diverse projects. Interested in low-level systems programming (performance, OS, embedded) and learning AI through hands-on implementation (e.g., building foundational models). Exploring the intersection of hardware and software while striving for efficient and clear code.
+Software engineer applying experience in C/C++, Java, and Python across diverse projects. Interested in low-level systems programming (performance, OS, embedded) and learning AI through hands-on implementation (e.g., small GPT). Exploring the intersection of hardware and software while striving for efficient and clear code.
 
 ## Technologies
 
@@ -40,7 +40,7 @@ Linux, Embedded Systems, Assembly, RTOS, Docker, Kubernetes
 ## Connect With Me
 
 - 📧 Email: [72ave2@gmail.com](mailto:72ave2@gmail.com)
-- 🌐 Portfolio: [fritzprix.github.io](https://fritzprix.github.io)
+<!-- - 🌐 Portfolio: [fritzprix.github.io](https://fritzprix.github.io) -->
 
 ---
 
